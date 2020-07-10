@@ -1,0 +1,11 @@
+#placa{
+    position: relative;
+    top: 100px;
+    left:100px;
+    z-index: 1;
+}
+#placa-bico{
+    position: relative;
+    top: -98px;
+    left: 1px;
+}
